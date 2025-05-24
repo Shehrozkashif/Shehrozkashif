@@ -21,7 +21,7 @@
 - 📫 **How to reach me:**  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shehroz%20Kashif-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shehrozkashif)  
   [![Twitter](https://img.shields.io/badge/Twitter-@ShehrozKashif-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/ShehrozKashif)  
-  📧 **Email**: shehrozkashif@example.com  
+  📧 **Email**: shehroz57@gmail.com 
 - 😄 **Pronouns:** He/Him  
 - ⚡ **Fun fact:** *I can read assembly code faster than I read a novel!* 😄  
 
