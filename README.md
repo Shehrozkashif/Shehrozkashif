@@ -1,71 +1,78 @@
-<h1 align="center">Hey there, I'm Shehroz Kashif! 👋</h1>
+# 👋 Hey, I'm Shehroz Kashif
+
+**AI & Software Engineer** | **LFX'25 @ RISC-V International** | **Open Source Contributor**
+
+🚀 Passionate about building the future of computing — from silicon to intelligence.
+
+---
+
+## 🧠 About Me
+
+💡 I'm a Software Engineer with a deep interest in:
+- 🧠 **Artificial Intelligence**, **Deep Learning**, and **Functional Programming**
+- ⚙️ **RISC-V Microarchitectures**, RTL Design & Verification
+- 🧬 **Neuroscience in Computing** & Human-Computer Interaction (HCI)
+
+🔬 I'm currently working on:
+- 🤖 **GAN-based deep learning project** using **PyTorch**
+- 🛡️ Reducing **LLM hallucinations** through prompt engineering & functional verification
+- 🔩 Enhancing **RISC-V toolchains**, specs, and simulators
+- 🚦 Contributing to machine-readable ISA specs & YAML-based schema tools
+
+📍 Based in Karachi, Pakistan | 🌐 Working with global teams
+
+🎯 Fun fact: I can read **assembly code faster than a novel!**
+
+---
+
+## 🧰 Tech Toolbox
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Verilog](https://img.shields.io/badge/-Verilog-blue?style=flat)
+![Chisel](https://img.shields.io/badge/-Chisel-red?style=flat)
+![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat&logo=scala)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+## 🔬 Projects & Contributions
+
+### ⚡ [ArcheV](https://github.com/merledu/ArcheV)
+> A benchmarking suite to test **LLMs** on RISC-V RV-32i ISA.  
+> Functional + syntactical verification via Verilog + Python.
+
+### 📘 [RISC-V Unified Database](https://github.com/riscv-software-src/riscv-unified-db)
+> YAML/JSON tooling for ISA generation, simulators, and documentation.
+
+### 🧠 Deep Learning with GANs
+> Built and trained **PyTorch-based GANs** for generative modeling on custom datasets.
+
+### 🛡️ LLM Hallucination Mitigation
+> Designing hybrid pipelines to **validate and ground LLM outputs** through structured evaluation.
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-  <strong> Software Engineer | AI & ML Enthusiast | Open Source Contributor </strong>  
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shehrozkashif&theme=tokyonight" alt="GitHub Profile Summary"/>
-</p>
-
----
-
-## 🚀 About Me  
-- 👀 **I’m interested in:**  
-  **Artificial Intelligence, Machine Learning, Deep Learning, Functional Programming, RISC-V, and HCI**  
-- 🌱 **I’m currently learning:**  
-  **Chisel, AI-driven Verification, and Neuroscience in Computing**  
-- 💞️ **I’m looking to collaborate on:**  
-  **AI research, RISC-V projects, Open Source contributions, and Web Development**  
-- 📫 **How to reach me:**  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shehroz%20Kashif-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shehrozkashif)  
-  [![Twitter](https://img.shields.io/badge/Twitter-@ShehrozKashif-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/ShehrozKashif)  
-  📧 **Email**: shehroz57@gmail.com 
-- 😄 **Pronouns:** He/Him  
-- ⚡ **Fun fact:** *I can read assembly code faster than I read a novel!* 😄  
-
----
-
-## 🔥 Machine Learning & AI Experience  
-- 🧠 **Worked on Neural Networks** for predictive modeling and classification tasks  
-- 🤖 **Experience with Deep Learning** using **TensorFlow** & **Keras**  
-- 🔬 **Built & optimized ML models** for real-world applications  
-- 🏋️ **Worked on AI-driven functional verification**  
-- 📈 **Hands-on with Data Science tools:** Pandas, NumPy, Matplotlib, and Scikit-learn  
-
----
-
-## 🔧 Tech Stack & Tools  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,scala,java,js,c,cpp,bash,html,css,linux,git,github,postgres,sqlite,django,spring,tensorflow,keras,flask,vscode,neovim,verilog" />
-</p>
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shehrozkashif&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shehrozkashif&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
----
-
-## 🏆 Contributions & Projects  
-🚀 **ArcheV** - RISC-V RV-32i RTL Benchmarking Tool for AI  
-🧠 **Neural Network Implementations** - Built & trained deep learning models  
-🌍 **Full-Stack Development** - Django & Spring Boot REST APIs  
-📖 **Technical Writing** - IEEE research papers & documentation  
-
----
-
-## 🌍 Let's Connect!  
-<p align="center">
-  <a href="https://github.com/Shehrozkashif"><img src="https://img.shields.io/badge/GitHub-Shehrozkashif-181717?style=for-the-badge&logo=github"></a>
-  <a href="https://www.linkedin.com/in/shehrozkashif"><img src="https://img.shields.io/badge/LinkedIn-Shehroz%20Kashif-0077B5?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://twitter.com/ShehrozKashif"><img src="https://img.shields.io/badge/Twitter-@ShehrozKashif-1DA1F2?style=for-the-badge&logo=twitter"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shehrozkashif&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shehrozkashif&theme=tokyonight" height="150"/>
 </p>
 
 ---
 
-⭐ **If you like my work, consider giving a star to my repositories!** ⭐  
+## 📫 Reach Out
+
+- 🔗 [LinkedIn](https://linkedin.com/in/shehroz-kashif)
+- 📧 Email: **shehroz57@gmail.com**
+
+---
+
+⭐ *If you like what I build, give it a star — it inspires me to create more!*  
+🛠️ *Always open to collaboration on impactful open-source and AI research.*
+
+---
