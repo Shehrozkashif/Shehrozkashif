@@ -8,13 +8,13 @@
 
 ## 🚀 About Me
 
-I'm a results-driven software engineer and researcher working at the intersection of **AI**, **hardware verification**, and **open source systems**.  
-I currently contribute to impactful projects at both **RISC-V International** and **MERL**, where I’m:
+I'm a results-driven software engineer and researcher, working at the intersection of **AI**, **hardware design**, and **open source verification tools**. I specialize in both **low-level microarchitecture verification** and **high-level deep learning systems**.
 
-- 🧠 Conducting research in **functional & syntactical verification** of RISC-V systems
-- 🔬 Benchmarking **Large Language Models (LLMs)** using custom **RTL tools**
-- 🛡️ Reducing **hallucinations in LLMs** using hybrid verification frameworks
-- 🧪 Training **GAN-based models** for generative learning tasks with **PyTorch**
+🔍 I currently focus on:
+- 🧠 Researching and implementing **Text GANs** using **PyTorch**
+- 🛡️ Reducing hallucinations in **Large Language Models (LLMs)** using hybrid verification
+- ⚙️ Building **RISC-V pipelines**, compilers, and simulators at **MERL**
+- 📊 Benchmarking LLMs with RTL using my open-source suite **ArcheV**
 
 💡 *Fun fact: I can read assembly faster than I read novels!*
 
@@ -23,10 +23,10 @@ I currently contribute to impactful projects at both **RISC-V International** an
 ## 🧠 Roles & Affiliations
 
 - 🔹 **LFX’25 Mentee @ RISC-V International**  
-  Working on machine-readable specs, tooling, and schema automation
+  Contributing to machine-readable RISC-V specifications and tools
 
-- 🔹 **Senior Research Intern @ MERL (2023–2024)**  
-  Spearheaded development of ArcheV benchmarking suite & custom RISC-V pipelines
+- 🔹 **Senior Research Intern @ MERL** (2023–2024)  
+  Developing and benchmarking RISC-V pipelines and LLM verification systems
 
 ---
 
@@ -38,8 +38,8 @@ I currently contribute to impactful projects at both **RISC-V International** an
 ![Verilog](https://img.shields.io/badge/Verilog-blue?style=flat)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
 
@@ -75,34 +75,34 @@ I currently contribute to impactful projects at both **RISC-V International** an
 ## 💡 Featured Projects
 
 ### 🔬 [ArcheV](https://github.com/merledu/ArcheV)
-> 🚀 RISC-V RV-32i RTL Benchmarking Suite for LLM Evaluation  
-> ✅ Syntactical + Functional analysis using Verilog + Python
+> 🧪 RISC-V RV-32i RTL Benchmarking Suite to test LLMs on low-level architectures  
+> ✅ Focused on syntactical & functional verification via Verilog + Python
 
 ### 📘 [RISC-V Unified DB](https://github.com/riscv-software-src/riscv-unified-db)
-> 🛠️ YAML-powered ISA tooling for simulators and documentation  
-> ⚙️ Schema path corrections, automation with Ruby, Rake & Python
+> 🛠️ YAML-based tooling and schema automation for RISC-V documentation and simulators  
+> ⚙️ Fixed schema paths, improved generator pipelines
 
-### 🤖 GAN-Based Deep Learning
-> 🧠 PyTorch-based GAN training pipelines for generative modeling  
-> 📈 Research in image synthesis, stability, and loss function optimization
+### 🧠 **Text GAN (In Progress)**
+> 📚 Researching and building a **Text GAN** using **PyTorch**  
+> 🎯 Targeted at learning discrete language patterns and improving generation quality
 
 ### 🛡️ LLM Hallucination Mitigation
-> 📊 Functional verification to validate and ground LLM outputs  
-> 🧪 Combines prompt engineering + hybrid testing for hallucination detection
+> 🔍 Using prompt engineering, hybrid testing, and functional output validation to reduce hallucinations in LLMs  
+> 🧩 Involves structured inputs, JSON-based evaluation, and rule-based fallback
 
 ---
 
 ## 🏆 Achievements
 
-- 🎓 **LFX Mentorship Program 2025** @ RISC-V International
 - 🧪 **Senior Research Intern @ MERL (2023–2024)**
-- ✍️ Published IEEE-style research & technical docs
-- 🚀 Boosted RTL benchmark accuracy by **25%**
-- 💬 Taught **Scala Functional Programming** and **AI Fundamentals**
+- 🎓 **LFX Mentorship Program 2025** @ RISC-V International
+- 📊 Improved LLM benchmarking accuracy by **25%**
+- 👨‍🏫 Taught **Scala Functional Programming** and **AI Fundamentals**
+- 📝 Contributed to IEEE-style research and documentation
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shehrozkashif&show_icons=true&theme=tokyonight" height="150"/>
@@ -118,7 +118,7 @@ I currently contribute to impactful projects at both **RISC-V International** an
 
 ---
 
-⭐ *Enjoy my work? Consider giving a ⭐ — it encourages more open contributions!*  
-🤝 *I’m open to collaborations on impactful AI research, hardware verification, and open source projects.*
+⭐ *Enjoy my work? Give it a ⭐ to support continued open source innovation!*  
+🤝 *I’m open to collaborations in AI, ML, Functional Programming, and RISC-V verification.*
 
 ---
