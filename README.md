@@ -25,7 +25,7 @@ I'm a results-driven software engineer and researcher, working at the intersecti
 - 🔹 **LFX’25 Mentee @ RISC-V International**  
   Contributing to machine-readable RISC-V specifications and tools
 
-- 🔹 **Senior Research Intern @ MERL** (2023–2024)  
+- 🔹 **Senior Research Intern @ MERL**  
   Developing and benchmarking RISC-V pipelines and LLM verification systems
 
 ---
