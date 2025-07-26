@@ -94,7 +94,7 @@ I'm a results-driven software engineer and researcher, working at the intersecti
 
 ## 🏆 Achievements
 
-- 🧪 **Senior Research Intern @ MERL (2023–2024)**
+- 🧪 **Senior Research Intern @ MERL**
 - 🎓 **LFX Mentorship Program 2025** @ RISC-V International
 - 📊 Improved LLM benchmarking accuracy by **25%**
 - 👨‍🏫 Taught **Scala Functional Programming** and **AI Fundamentals**
