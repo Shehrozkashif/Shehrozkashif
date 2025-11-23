@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shehroz Kashif
 
 **Software Engineer | AI & Deep Learning Researcher | LFX'25 Mentee @ RISC-V International**  
-**Research Intern @ MERL (Micro Electronics Research Lab)**  
+**Research Assistant @ MERL (Micro Electronics Research Lab)**  
 *Open Source Contributor | Functional Programmer | Verification Enthusiast*
 
 ---
@@ -25,7 +25,7 @@ I'm a results-driven software engineer and researcher, working at the intersecti
 - 🔹 **LFX’25 Mentee @ RISC-V International**  
   Contributing to machine-readable RISC-V specifications and tools
 
-- 🔹 **Senior Research Intern @ MERL**  
+- 🔹 **Research Assistant @ MERL**  
   Developing and benchmarking RISC-V pipelines and LLM verification systems
 
 ---
@@ -94,8 +94,8 @@ I'm a results-driven software engineer and researcher, working at the intersecti
 
 ## 🏆 Achievements
 
-- 🧪 **Senior Research Intern @ MERL**
-- 🎓 **LFX Mentorship Program 2025** @ RISC-V International
+- 🧪 **Research Assistant @ MERL**
+- 🎓 **LFX Mentorship Program 2025** @ RISC-V Asistantational
 - 📊 Improved LLM benchmarking accuracy by **25%**
 - 👨‍🏫 Taught **Scala Functional Programming** and **AI Fundamentals**
 - 📝 Contributed to IEEE-style research and documentation
