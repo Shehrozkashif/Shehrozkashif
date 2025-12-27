@@ -1,104 +1,95 @@
 # 👋 Hi, I'm Shehroz Kashif
 
-**Software Engineer | AI & Deep Learning Researcher | LFX'25 Mentee @ RISC-V International**  
-**Research Assistant @ MERL (Micro Electronics Research Lab)**  
-*Open Source Contributor | Functional Programmer | Verification Enthusiast*
+**AI Engineer | Software Engineer | LLM & MLOps Researcher**  
+**Research Assistant @ Micro Electronics Research Lab (MERL)**  
+**LFX’25 Mentee @ RISC-V International**
+
+*Open-source contributor focused on production-ready AI systems, LLM evaluation, and reproducible ML pipelines.*
 
 ---
 
 ## 🚀 About Me
 
-I'm a results-driven software engineer and researcher, working at the intersection of **AI**, **hardware design**, and **open source verification tools**. I specialize in both **low-level microarchitecture verification** and **high-level deep learning systems**.
+I’m an **AI Engineer and Researcher** working at the intersection of **LLMs, MLOps, and open-source systems**.  
+My work focuses on building **reliable, testable, and deployment-ready AI pipelines** rather than experimental-only models.
 
-🔍 I currently focus on:
-- 🧠 Researching and implementing **Text GANs** using **PyTorch**
-- 🛡️ Reducing hallucinations in **Large Language Models (LLMs)** using hybrid verification
-- ⚙️ Building **RISC-V pipelines**, compilers, and simulators at **MERL**
-- 📊 Benchmarking LLMs with RTL using my open-source suite **ArcheV**
+### 🔍 Current Focus
+- 🧠 **LLM evaluation & benchmarking** (functional, syntactic, adversarial)
+- 🛡️ **Hallucination mitigation** in private LLMs using GAN-based approaches
+- ⚙️ **Reproducible ML pipelines** with CI/CD, logging, and SLA-aware validation
+- 📊 **RISC-V data & tooling** for machine-readable specifications and verification
 
-💡 *Fun fact: I can read assembly faster than I read novels!*
+💡 *I care deeply about making AI systems trustworthy in production.*
 
 ---
 
 ## 🧠 Roles & Affiliations
 
-- 🔹 **LFX’25 Mentee @ RISC-V International**  
-  Contributing to machine-readable RISC-V specifications and tools
+- 🔹 **Research Assistant — Micro Electronics Research Lab (MERL)**  
+  Working on LLM evaluation pipelines, benchmarking frameworks, and RISC-V-related tooling
 
-- 🔹 **Research Assistant @ MERL**  
-  Developing and benchmarking RISC-V pipelines and LLM verification systems
+- 🔹 **LFX’25 Mentee — RISC-V International**  
+  Contributing to machine-readable RISC-V specifications, schemas, and CI validation pipelines
 
 ---
 
-## 🧰 My Tech Toolbox
+## 🧰 Tech Stack
 
 ### 🔤 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala)
-![Verilog](https://img.shields.io/badge/Verilog-blue?style=flat)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
+Python · Scala · Verilog · Java · Shell · JavaScript · HTML · CSS
 
-### 🧠 AI & Deep Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow)
-![Transformers](https://img.shields.io/badge/Transformers-yellow?style=flat&logo=huggingface&logoColor=black)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
+### 🧠 AI / ML
+PyTorch · TensorFlow · Hugging Face Transformers · GANs · LLM Evaluation  
+NumPy · Pandas · Scikit-learn
 
-### ⚙️ Hardware & Verification
-![Chisel](https://img.shields.io/badge/Chisel-DC322F?style=flat)
-![Verilator](https://img.shields.io/badge/Verilator-2C3E50?style=flat)
-![RISC-V](https://img.shields.io/badge/RISC--V-005BBB?style=flat)
-![RTL](https://img.shields.io/badge/RTL-Green?style=flat)
+### ⚙️ MLOps & Engineering
+CI/CD · Docker · REST/gRPC · Logging & Monitoring · Reproducible Pipelines  
+Git · GitHub Actions · Linux · pytest
 
-### 🧰 Frameworks & Dev Tools
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux)
-![CI/CD](https://img.shields.io/badge/CI/CD-0A0A0A?style=flat)
-
-### 🧾 Data & Configuration
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
-![YAML](https://img.shields.io/badge/YAML-FFA500?style=flat)
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat)
+### 🧾 Data & Config
+JSON · YAML · MySQL
 
 ---
 
 ## 💡 Featured Projects
 
-### 🔬 [ArcheV](https://github.com/merledu/ArcheV)
-> 🧪 RISC-V RV-32i RTL Benchmarking Suite to test LLMs on low-level architectures  
-> ✅ Focused on syntactical & functional verification via Verilog + Python
+### 🛡️ AI4org — GAN-based Hallucination Mitigation for Private LLMs
+🔗 https://github.com/merledu/ai4org
 
-### 📘 [RISC-V Unified DB](https://github.com/riscv-software-src/riscv-unified-db)
-> 🛠️ YAML-based tooling and schema automation for RISC-V documentation and simulators  
-> ⚙️ Fixed schema paths, improved generator pipelines
+- Built a **privacy-first ML pipeline** to detect and mitigate hallucinations in private LLMs  
+- Designed a **GAN-style generator/discriminator** for hallucination detection  
+- End-to-end pipeline: ingestion → validation → reproducible training → containerized inference  
+- Integrated **CI/CD, automated testing, and monitoring** for production readiness  
 
-### 🧠 **Text GAN (In Progress)**
-> 📚 Researching and building a **Text GAN** using **PyTorch**  
-> 🎯 Targeted at learning discrete language patterns and improving generation quality
-
-### 🛡️ LLM Hallucination Mitigation
-> 🔍 Using prompt engineering, hybrid testing, and functional output validation to reduce hallucinations in LLMs  
-> 🧩 Involves structured inputs, JSON-based evaluation, and rule-based fallback
+> 📌 Designed for enterprise and on-prem LLM deployments where reliability matters.
 
 ---
 
-## 🏆 Achievements
+### 🔬 ArcheV — LLM Benchmark Suite
+🔗 https://github.com/merledu/ArcheV
 
-- 🧪 **Research Assistant @ MERL**
-- 🎓 **LFX Mentorship Program 2025** @ RISC-V Asistantational
-- 📊 Improved LLM benchmarking accuracy by **25%**
-- 👨‍🏫 Taught **Scala Functional Programming** and **AI Fundamentals**
-- 📝 Contributed to IEEE-style research and documentation
+- Engineered a **reproducible LLM benchmarking framework**
+- Standardized **JSON I/O** and CI-driven evaluation pipelines
+- Validates **functional and syntactic correctness** to support deployment decisions
+
+---
+
+### 📘 RISC-V Unified Database
+🔗 https://github.com/riscv-software-src/riscv-unified-db
+
+- Maintained **versioned YAML/JSON schemas** for RISC-V tooling
+- Implemented CI validation to ensure **data integrity and observability**
+- Improved downstream reliability for tooling and ML pipelines
+
+---
+
+## 🏆 Highlights & Achievements
+
+- 🎓 **Linux Foundation Mentorship Program (LFX) 2025**
+- 🧪 Research Assistant at **MERL**
+- 📊 Improved LLM benchmarking reliability by **~25%**
+- 🧠 Hands-on experience with **LLMs, GANs, MLOps, and CI/CD**
+- 📝 Contributor to open-source and research-grade tooling
 
 ---
 
@@ -111,14 +102,12 @@ I'm a results-driven software engineer and researcher, working at the intersecti
 
 ---
 
-## 📫 Contact Me
+## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/shehroz-kashif)
-- 📧 Email: **shehroz57@gmail.com**
-
----
-
-⭐ *Enjoy my work? Give it a ⭐ to support continued open source innovation!*  
-🤝 *I’m open to collaborations in AI, ML, Functional Programming, and RISC-V verification.*
+- 💼 LinkedIn: https://linkedin.com/in/shehroz-kashif  
+- 📧 Email: **sharooz57@gmail.com**
 
 ---
+
+⭐ *If you find my work useful, feel free to star a repository.*  
+🤝 *Open to collaborations in AI, LLMs, MLOps, and open-source systems.*
