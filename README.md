@@ -11,50 +11,43 @@
 ## 🚀 About Me
 
 I’m an **AI Engineer and Researcher** working at the intersection of **LLMs, MLOps, and open-source systems**.  
-My work focuses on building **reliable, testable, and deployment-ready AI pipelines** rather than experimental-only models.
+I build **reliable, testable, and deployment-ready AI pipelines** rather than experimental-only models.
 
 ### 🔍 Current Focus
-- 🧠 **LLM evaluation & benchmarking** (functional, syntactic, adversarial)
-- 🛡️ **Hallucination mitigation** in private LLMs using GAN-based approaches
-- ⚙️ **Reproducible ML pipelines** with CI/CD, logging, and SLA-aware validation
-- 📊 **RISC-V data & tooling** for machine-readable specifications and verification
+- 🧠 **LLM Evaluation & Benchmarking** — functional, syntactic, adversarial  
+- 🛡️ **Hallucination Mitigation** — GAN-based approaches for private LLMs  
+- ⚙️ **Reproducible ML Pipelines** — CI/CD, logging, SLA-aware validation  
+- 📊 **RISC-V Tooling & Data** — machine-readable specifications and verification  
 
-💡 *I care deeply about making AI systems trustworthy in production.*
+💡 *Making AI systems trustworthy in production is my passion.*
 
 ---
 
 ## 🧠 Roles & Affiliations
 
-- 🔹 **Research Assistant — Micro Electronics Research Lab (MERL)**  
-  Working on LLM evaluation pipelines, benchmarking frameworks, and RISC-V-related tooling
+- 🔹 **Research Assistant — MERL**  
+  LLM evaluation pipelines, benchmarking frameworks, RISC-V tooling
 
 - 🔹 **LFX’25 Mentee — RISC-V International**  
-  Contributing to machine-readable RISC-V specifications, schemas, and CI validation pipelines
+  Machine-readable RISC-V specifications, schemas, and CI validation
 
 ---
 
 ## 🧰 Tech Stack
 
-### 🔤 Languages
-Python · Scala · Verilog · Java · Shell · JavaScript · HTML · CSS
-
-### 🧠 AI / ML
-PyTorch · TensorFlow · Hugging Face Transformers · GANs · LLM Evaluation  
-NumPy · Pandas · Scikit-learn
-
-### ⚙️ MLOps & Engineering
-CI/CD · Docker · REST/gRPC · Logging & Monitoring · Reproducible Pipelines  
-Git · GitHub Actions · Linux · pytest
-
-### 🧾 Data & Config
-JSON · YAML · MySQL
+**Languages:** Python · Scala · Verilog · Java · Shell · JavaScript · HTML · CSS  
+**AI / ML:** PyTorch · TensorFlow · Hugging Face Transformers · GANs · LLM Evaluation · NumPy · Pandas · Scikit-learn  
+**MLOps & Engineering:** CI/CD · Docker · REST/gRPC · Logging & Monitoring · Reproducible Pipelines · Git · GitHub Actions · Linux · pytest  
+**Data & Config:** JSON · YAML · MySQL  
 
 ---
 
 ## 💡 Featured Projects
 
-### 🛡️ AI4org — GAN-based Hallucination Mitigation for Private LLMs
-🔗 https://github.com/merledu/ai4org
+<details>
+<summary>🛡️ AI4org — GAN-based Hallucination Mitigation for Private LLMs</summary>
+
+🔗 [GitHub Repository](https://github.com/merledu/ai4org)
 
 - Built a **privacy-first ML pipeline** to detect and mitigate hallucinations in private LLMs  
 - Designed a **GAN-style generator/discriminator** for hallucination detection  
@@ -63,33 +56,39 @@ JSON · YAML · MySQL
 
 > 📌 Designed for enterprise and on-prem LLM deployments where reliability matters.
 
----
+</details>
 
-### 🔬 ArcheV — LLM Benchmark Suite
-🔗 https://github.com/merledu/ArcheV
+<details>
+<summary>🔬 ArcheV — LLM Benchmark Suite</summary>
 
-- Engineered a **reproducible LLM benchmarking framework**
-- Standardized **JSON I/O** and CI-driven evaluation pipelines
-- Validates **functional and syntactic correctness** to support deployment decisions
+🔗 [GitHub Repository](https://github.com/merledu/ArcheV)
 
----
+- Engineered a **reproducible LLM benchmarking framework**  
+- Standardized **JSON I/O** and CI-driven evaluation pipelines  
+- Validates **functional and syntactic correctness** for deployment decisions
 
-### 📘 RISC-V Unified Database
-🔗 https://github.com/riscv-software-src/riscv-unified-db
+</details>
 
-- Maintained **versioned YAML/JSON schemas** for RISC-V tooling
-- Implemented CI validation to ensure **data integrity and observability**
+<details>
+<summary>📘 RISC-V Unified Database</summary>
+
+🔗 [GitHub Repository](https://github.com/riscv-software-src/riscv-unified-db)
+
+- Maintained **versioned YAML/JSON schemas** for RISC-V tooling  
+- Implemented CI validation to ensure **data integrity and observability**  
 - Improved downstream reliability for tooling and ML pipelines
+
+</details>
 
 ---
 
 ## 🏆 Highlights & Achievements
 
-- 🎓 **Linux Foundation Mentorship Program (LFX) 2025**
-- 🧪 Research Assistant at **MERL**
-- 📊 Improved LLM benchmarking reliability by **~25%**
-- 🧠 Hands-on experience with **LLMs, GANs, MLOps, and CI/CD**
-- 📝 Contributor to open-source and research-grade tooling
+- 🎓 **Linux Foundation Mentorship Program (LFX) 2025**  
+- 🧪 Research Assistant at **MERL**  
+- 📊 Improved LLM benchmarking reliability by **~25%**  
+- 🧠 Hands-on experience with **LLMs, GANs, MLOps, and CI/CD**  
+- 📝 Contributor to open-source and research-grade tooling  
 
 ---
 
@@ -104,8 +103,8 @@ JSON · YAML · MySQL
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/shehroz-kashif  
-- 📧 Email: **sharooz57@gmail.com**
+- 💼 LinkedIn: [Shehroz Kashif](https://linkedin.com/in/shehroz-kashif)  
+- 📧 Email: **sharooz57@gmail.com**  
 
 ---
 
