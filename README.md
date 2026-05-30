@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Shehroz%20Kashif&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20GSoC%20'26%20%40%20OpenVINO%20(Intel)%20%7C%20LFX%20'25%20%40%20RISC-V%20International%20%7C%20LLMs%20%26%20Systems&descAlignY=60&descSize=14&descColor=c4b5fd&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Shehroz%20Kashif&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20GSoC%2026%20%40%20OpenVINO%20Intel%20%7C%20LFX%2025%20%40%20RISC-V%20International%20%7C%20LLMs%20and%20Systems&descAlignY=60&descSize=14&descColor=c4b5fd&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&width=780&lines=🏆+GSoC+2026+%40+Intel+OpenVINO+—+5-Agent+Desktop+AI+System;🔀+12+Merged+PRs+—+Intel+%7C+Linux+Foundation+%7C+Harvard%2FMIT;⚡+Production+RAG+·+GPU+Inference+·+LLM+Fine-Tuning;🔬+GAN-Based+Hallucination+Mitigation+—+MERL+Research+Lab;🌍+Dubai%2C+UAE+·+Valid+Residence+Visa+·+Immediate+Joiner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&width=780&lines=GSoC+2026+%40+Intel+OpenVINO+-+5-Agent+Desktop+AI+System;12+Merged+PRs+-+Intel+%7C+Linux+Foundation+%7C+Harvard%2FMIT;Production+RAG+%7C+GPU+Inference+%7C+LLM+Fine-Tuning;GAN-Based+Hallucination+Mitigation+-+MERL+Research+Lab;Dubai+UAE+%7C+Immediate+Joiner+%7C+Open+to+Work" alt="Typing SVG" />
 </a>
 
 <br/>
