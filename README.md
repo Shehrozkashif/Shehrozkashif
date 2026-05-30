@@ -1,107 +1,115 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shehroz%20Kashif&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20GSoC%20'26%20%40%20Intel%20OpenVINO%20%7C%20LLM%20Systems%20%7C%20RAG%20Infrastructure&descAlignY=58&descSize=15&descColor=a78bfa&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Shehroz%20Kashif&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20GSoC%20'26%20%40%20OpenVINO%20(Intel)%20%7C%20LFX%20'25%20%40%20RISC-V%20International%20%7C%20LLMs%20%26%20Systems&descAlignY=60&descSize=14&descColor=c4b5fd&animation=fadeIn" width="100%"/>
 
-<!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=750&lines=GSoC+2026+%40+Intel+OpenVINO+%E2%80%94+5-Agent+Desktop+AI+System;12+Merged+PRs+%E2%80%94+Intel+%2F+Linux+Foundation+%2F+Harvard%2FMIT;Production+RAG+Pipelines+%C2%B7+GPU+Inference+%C2%B7+LLM+Fine-Tuning;GAN-Based+Hallucination+Mitigation+%E2%80%94+MERL+Research+Lab;Full+Hardware-to-Software+AI+Stack+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&width=780&lines=🏆+GSoC+2026+%40+Intel+OpenVINO+—+5-Agent+Desktop+AI+System;🔀+12+Merged+PRs+—+Intel+%7C+Linux+Foundation+%7C+Harvard%2FMIT;⚡+Production+RAG+·+GPU+Inference+·+LLM+Fine-Tuning;🔬+GAN-Based+Hallucination+Mitigation+—+MERL+Research+Lab;🌍+Dubai%2C+UAE+·+Valid+Residence+Visa+·+Immediate+Joiner" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
-<!-- BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shehroz-kashif)
-[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shehrozkashif)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharooz57@gmail.com)
-[![GSoC](https://img.shields.io/badge/GSoC%202026-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://summerofcode.withgoogle.com/)
-[![Location](https://img.shields.io/badge/Dubai%2C%20UAE%20%F0%9F%87%A6%F0%9F%87%AA-00C4CC?style=for-the-badge)](#)
-[![Available](https://img.shields.io/badge/Immediately%20Available-22c55e?style=for-the-badge)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shehrozkashif)
+[![GSoC](https://img.shields.io/badge/GSoC%202026%20%40%20Intel-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://summerofcode.withgoogle.com/)
+[![LFX](https://img.shields.io/badge/LFX%20'25%20%40%20RISC--V%20Intl-0094FF?style=for-the-badge&logo=linuxfoundation&logoColor=white)](https://mentorship.lfx.linuxfoundation.org/)
 
 </div>
 
 ---
 
-## ⚡ Who Am I
+## 👋 About Me
 
-> I build the **infrastructure that makes AI reliable at scale** — production RAG backends, quantized GPU inference pipelines, multi-agent systems, GAN-based hallucination mitigation, and the open standards those systems run on.
+> AI Engineer with **2.5+ years** building end-to-end production AI systems — from GPU-accelerated LLM inference and RAG pipelines to GAN-based hallucination mitigation and multi-agent automation.
 
-AI Engineer with **2.5+ years** of end-to-end ownership across the full AI/ML lifecycle: data ingestion, model training, GPU-optimized inference, RAG deployment, monitoring, and iteration in production. My open-source contributions are embedded in **Intel's production inference toolchain**, the **Linux Foundation's official RISC-V ISA specification**, and **Harvard/MIT's HNN-Core** — not toy patches, but production-grade engineering in world-class codebases.
+I work across the **full hardware-to-software AI stack**: selected globally for **Google Summer of Code 2026 at Intel/OpenVINO** to build a 5-agent privacy-preserving desktop automation system, and contributed **12 verified merged PRs** into Intel's production inference toolchain, the Linux Foundation's canonical RISC-V ISA specification, and Harvard/MIT's HNN-Core.
 
-Currently building a **5-agent GUI Desktop Automation system** at Intel via Google Summer of Code 2026, running entirely on-device with OpenVINO-optimized LLMs/VLMs at under 600ms step latency.
-
----
-
-## 🚀 Current Focus
-
-| Domain | What I'm Building |
-|---|---|
-| **GSoC '26 @ Intel OpenVINO** | 5-agent desktop automation pipeline — Router → Planning → UI Grounding → Action Execution → Reflection, over A2A + MCP. INT4 VLMs/LLMs, OVMS, sub-600ms latency |
-| **RAG Infrastructure @ Skoop** | Production LangChain RAG · FAISS vector retrieval · agentic multi-step workflows · LLM reliability at enterprise scale |
-| **Research (MERL Lab)** | Hallucination mitigation paper — multi-discriminator GANs + REINFORCE RL on LLaMA2 / Mistral 7B |
-| **Intel NNCF (Open Source)** | Transpose-aware LoRA Correction · stateful KV-cache LLM compression · PyTorch frontend fixes |
+Based in **Dubai, UAE** · Valid 2-year residence visa · **Immediately available** · Open to relocation across UAE
 
 ---
 
-## 🏢 Experience
+## 🏅 Recognition at a Glance
+
+<div align="center">
+
+| 🏆 | Achievement |
+|:---:|:---|
+| 🌐 | **Google Summer of Code 2026** — Selected Contributor, Intel / OpenVINO Toolkit |
+| 🐧 | **LFX Mentorship 2025** — Linux Foundation / RISC-V International (merit-based) |
+| 🔀 | **12 Verified Merged PRs** — Intel · Linux Foundation · Harvard/MIT · MERL Lab |
+| ⚡ | **Sub-600ms** end-to-end VLM+LLM inference on consumer hardware |
+| 🎓 | **IBM AI Engineer Professional Certificate** (6 courses, Coursera 2025) |
+
+</div>
+
+---
+
+## 💼 Experience
 
 ### 🟣 Google Summer of Code 2026 — AI Engineer @ Intel (OpenVINO)
-`May 2026 – September 2026 · Remote`
+**`May 2026 – Sep 2026`** &nbsp;·&nbsp; *Google-Sponsored · Remote*
 
-Selected globally to design and deploy a **privacy-preserving GUI Desktop Automation Agent** — fully local, zero data leaves the device.
+Selected globally to build a **privacy-preserving GUI Desktop Automation Agent** — fully local, zero cloud dependency.
 
-- **5-agent architecture** over A2A protocol: Router → Planning → UI Grounding → Action Execution → Reflection, with an MCP server for native desktop control
-- Deployed **Phi-3.5-Vision-INT4** (UI grounding via OVMS) + **DeepSeek-R1-Qwen-7B-INT4** (planning/reasoning)
-- Applied KV caching, prefix caching, and WEIGHTLESS optimizations — **sub-600ms step latency** on consumer hardware
+```
+5-Agent Pipeline (A2A Protocol + MCP Server)
+─────────────────────────────────────────────────────────────────
+Router → Planning → UI Grounding → Action Execution → Reflection
+         DeepSeek-R1    Phi-3.5-Vision      Native OS         Self-Correction
+         Qwen-7B-INT4   INT4 via OVMS       via MCP           Loop
+```
+
+- **Sub-600ms** step latency · INT4 quantization · KV caching · prefix caching · WEIGHTLESS optimization
 - Mentored directly by Intel engineers **Ethan Yang** and **Zhuo Wu**
+- Entire pipeline runs on-device — enterprise-grade privacy by design
 
 ---
 
-### 🔵 AI Engineer — Skoop *(Walnut Creek, CA · Remote)*
-`Apr 2026 – Present`
+### 🔵 AI Engineer — Skoop
+**`Apr 2026 – Present`** &nbsp;·&nbsp; *Walnut Creek, CA · Remote*
 
-- Built production **LangChain RAG pipelines** with FAISS vector search for enterprise knowledge management — measurable improvement in LLM response accuracy, context-awareness, and hallucination reduction
-- End-to-end data engineering: ingestion → semantic chunking → embedding → FAISS indexing → retrieval at scale
-- Architected agentic AI workflows enabling autonomous multi-step task execution
-- Owned **model monitoring and evaluation loops** — retrieval quality, response relevance, latency metrics
+- Production **LangChain RAG pipelines** with FAISS for enterprise knowledge management — measurable gains in LLM accuracy and hallucination reduction
+- Full data engineering stack: ingestion → semantic chunking → embedding → FAISS indexing → retrieval
+- Agentic AI workflows for autonomous multi-step task execution
+- Owns **model monitoring loops** — retrieval quality, relevance, and latency metrics
 
 ---
 
-### 🟠 AI Engineer — TheOvalLabs *(Karachi · Remote)*
-`Jan 2026 – Apr 2026`
+### 🟠 AI Engineer — TheOvalLabs
+**`Jan 2026 – Apr 2026`** &nbsp;·&nbsp; *Remote*
 
 - Built **Verimate** — AI platform automating UVM verification plan and testbench generation for RTL/chip designs (semiconductor sector)
-- LangChain RAG + FAISS + Gemini API + GPU-accelerated local LLMs; measurable reduction in hardware verification engineering cycle time
-- Designed scalable data pipelines (document cleaning, semantic chunking, embedding, FAISS indexing)
+- LangChain + FAISS + Gemini API + GPU-accelerated local LLMs
+- Delivered measurable reduction in hardware verification engineering cycle time
 
 ---
 
 ### 🔴 Open Source AI Engineer — Intel (OpenVINO / NNCF)
-`Dec 2025 – Mar 2026 · Santa Clara, CA`
+**`Dec 2025 – Mar 2026`** &nbsp;·&nbsp; *Santa Clara, CA · Remote*
 
-- Contributed **transpose-aware LoRA Correction** — correct handling of MatMul layers with transposed activation layouts in INT4/INT8 quantized LLMs
-- Migrated LLM compression examples to OpenVINO **stateful inference flow**, eliminating manual KV-cache handling
-- **3 merged PRs:** [#3814](https://github.com/openvinotoolkit/nncf/pull/3814) · [#3864](https://github.com/openvinotoolkit/nncf/pull/3864) · [#33803](https://github.com/openvinotoolkit/openvino/pull/33803)
+- **Transpose-aware LoRA Correction** — correct handling of MatMul layers with transposed activations in INT4/INT8 quantized LLMs
+- Migrated LLM compression examples to OpenVINO **stateful inference flow** — production-grade, no manual KV-cache handling
+- **3 merged PRs:** [NNCF #3814](https://github.com/openvinotoolkit/nncf/pull/3814) · [NNCF #3864](https://github.com/openvinotoolkit/nncf/pull/3864) · [OpenVINO #33803](https://github.com/openvinotoolkit/openvino/pull/33803)
 
 ---
 
-### 🟢 Software Engineer — LFX Mentorship @ Linux Foundation (RISC-V International)
-`Mar 2025 – Jun 2025 · Remote`
+### 🟢 Software Engineer — LFX Mentorship @ Linux Foundation · RISC-V International
+**`Mar 2025 – Jun 2025`** &nbsp;·&nbsp; *Remote · Mentored by Qualcomm, Ventana, Synopsys*
 
 - **7 merged PRs** to the canonical machine-readable RISC-V ISA specification
-- Implemented ISA extensions (Zilsd, Zclsd, Zcmop), Ruby tooling, CI/CD coverage automation via GitHub Actions
-- Mentored by engineers from **Qualcomm, Ventana, and Synopsys**
-- PRs: [#521](https://github.com/riscv-software-src/riscv-unified-db/pull/521) · [#530](https://github.com/riscv-software-src/riscv-unified-db/pull/530) · [#542](https://github.com/riscv-software-src/riscv-unified-db/pull/542) · [#577](https://github.com/riscv-software-src/riscv-unified-db/pull/577) · [#617](https://github.com/riscv/riscv-unified-db/pull/617) · [#654](https://github.com/riscv-software-src/riscv-unified-db/pull/654) · [#923](https://github.com/riscv-software-src/riscv-unified-db/pull/923)
+- Implemented ISA extensions: Zilsd, Zclsd, Zcmop compressed MOP instructions
+- Ruby tooling, CI/CD automation with GitHub Actions, schema and IDL fixes
+
+> PRs: [#521](https://github.com/riscv-software-src/riscv-unified-db/pull/521) · [#530](https://github.com/riscv-software-src/riscv-unified-db/pull/530) · [#542](https://github.com/riscv-software-src/riscv-unified-db/pull/542) · [#577](https://github.com/riscv-software-src/riscv-unified-db/pull/577) · [#617](https://github.com/riscv/riscv-unified-db/pull/617) · [#654](https://github.com/riscv-software-src/riscv-unified-db/pull/654) · [#923](https://github.com/riscv-software-src/riscv-unified-db/pull/923)
 
 ---
 
-### 🟡 Research Assistant — MERL Lab
-`Jul 2023 – Dec 2025 · Karachi`
+### 🟡 Research Assistant — MERL Lab (Micro Electronics Research Lab)
+**`Jul 2023 – Dec 2025`** &nbsp;·&nbsp; *Karachi, Pakistan*
 
-- Led **AI4Org**: multi-discriminator GAN + REINFORCE RL hallucination mitigation framework — fine-tuned TinyLlama / GPT-2 / LLaMA2 / Mistral 7B with PEFT/LoRA on dual AMD RX 7900 XTX
-- Led **ArcheV**: first standardized LLM benchmark suite for RISC-V RV32I code — functional correctness, syntactic validity, ISA edge-case evaluation via llama.cpp
-- Built **Vermithor**: 5-stage pipelined RV32I processor in Chisel (Scala) — hazard detection, data forwarding, Verilator verification
-- Managed multi-GPU training infrastructure (RTX 2060 + dual AMD RX 7900 XTX)
+- Led **AI4Org**: multi-discriminator GAN + REINFORCE RL hallucination mitigation — fine-tuned TinyLlama / GPT-2 / LLaMA2 / Mistral 7B with PEFT/LoRA on dual AMD RX 7900 XTX
+- Led **ArcheV**: *first* LLM benchmark suite for RISC-V RV32I assembly code — functional correctness, syntactic validity, ISA edge-case evaluation
+- Built **Vermithor**: 5-stage pipelined RV32I processor in Chisel (Scala) — hazard detection, forwarding, Verilator verification
 
 ---
 
@@ -109,53 +117,49 @@ Selected globally to design and deploy a **privacy-preserving GUI Desktop Automa
 
 <div align="center">
 
-| Repository | Organization | Contributions |
-|---|---|---|
-| [riscv-unified-db](https://github.com/riscv/riscv-unified-db) | 🐧 Linux Foundation / RISC-V | **7 merged PRs** — ISA extensions, Ruby tooling, CI/CD coverage |
-| [openvinotoolkit/nncf](https://github.com/openvinotoolkit/nncf) | 🔵 Intel | **2 merged PRs** — stateful LLM compression, transpose-aware LoRA |
-| [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) | 🔵 Intel | **1 merged PR** — PyTorch frontend fix (#33803) |
-| [jonescompneurolab/hnn-core](https://github.com/jonescompneurolab/hnn-core) | 🔴 Harvard / MIT | **1 merged PR** — documentation improvements (#1001) |
-| [merledu/ai4org](https://github.com/merledu/ai4org) | 🟡 MERL Lab | **1 merged PR** — GPU hallucination reduction pipeline |
+| Organization | Repository | PRs | Highlights |
+|:---:|---|:---:|---|
+| 🔵 **Intel** | [openvinotoolkit/nncf](https://github.com/openvinotoolkit/nncf) + [openvino](https://github.com/openvinotoolkit/openvino) | **3** | Stateful LLM compression · transpose-aware LoRA · PyTorch frontend |
+| 🐧 **Linux Foundation** | [riscv-unified-db](https://github.com/riscv/riscv-unified-db) | **7** | ISA extensions · Ruby tooling · CI/CD automation |
+| 🔴 **Harvard / MIT** | [hnn-core](https://github.com/jonescompneurolab/hnn-core) | **1** | Documentation (#1001) |
+| 🟡 **MERL Lab** | [ai4org](https://github.com/merledu/ai4org) | **1** | GPU hallucination reduction pipeline |
 
 </div>
 
-> 🏆 **GSoC 2026:** Selected contributor building GUI Agent pipeline integrated into the Intel OpenVINO production ecosystem (May – Sep 2026)
-
 ---
 
-## 🧠 Featured Projects
+## 🧠 Key Projects
 
 <details>
-<summary><b>🤖 GSoC '26 — Privacy-Preserving GUI Desktop Automation Agent (Intel / OpenVINO)</b></summary>
+<summary><b>🤖 GSoC '26 — Privacy-Preserving Desktop Automation Agent (Intel / OpenVINO)</b></summary>
+<br>
 
-Fully local, zero-cloud multi-agent desktop automation system. No data leaves the device.
+Fully local multi-agent desktop automation — zero data leaves the device, enterprise privacy by design.
 
-**5-Agent Architecture over A2A Protocol:**
-1. **Router** — intent classification and task dispatch
-2. **Planning** — DeepSeek-R1-Qwen-7B-INT4 for multi-step reasoning
-3. **UI Grounding** — Phi-3.5-Vision-INT4 for screen understanding via OVMS
-4. **Action Execution** — MCP server for native cross-application system control
-5. **Reflection** — quality evaluation and self-correction loop
+| Agent | Model | Role |
+|---|---|---|
+| Router | Rule-based | Intent classification & dispatch |
+| Planning | DeepSeek-R1-Qwen-7B-INT4 | Multi-step reasoning |
+| UI Grounding | Phi-3.5-Vision-INT4 via OVMS | Screen understanding |
+| Action Execution | MCP Server | Native OS/app control |
+| Reflection | LLM judge | Quality evaluation & retry |
 
-**Optimizations:** INT4 quantization · KV caching · prefix caching · WEIGHTLESS · adaptive image history
-**Result:** Sub-600ms step latency on consumer hardware
-
-**Stack:** `OpenVINO` `OVMS` `VLMs` `LLMs` `A2A Protocol` `MCP` `PyQt` `INT4 Quantization` `Python`
+**Stack:** `OpenVINO` `OVMS` `A2A Protocol` `MCP` `PyQt` `INT4 Quantization` `KV Caching` `Python`
 
 </details>
 
 <details>
 <summary><b>🔬 AI4Org — GAN-based Hallucination Mitigation for Private LLMs</b></summary>
+<br>
 
 > **[github.com/merledu/ai4org](https://github.com/merledu/ai4org)**
 
-Privacy-first framework that reduces LLM hallucinations entirely on-premise — no external APIs.
+Privacy-first framework reducing LLM hallucinations entirely on-premise — no external APIs.
 
-- Multi-discriminator GAN: generator fine-tunes responses, discriminator ensemble detects hallucinations
-- REINFORCE RL optimization loop for policy gradient quality improvement
-- FAISS semantic retrieval for grounded generation + INT4 quantization
-- Fine-tuned: TinyLlama · GPT-2 · LLaMA2 · Mistral 7B via PEFT/LoRA/SFT
-- Infrastructure: RTX 2060 + dual AMD RX 7900 XTX · gradient checkpointing · CI/CD
+- Multi-discriminator GAN pipeline + REINFORCE RL optimization loop
+- FAISS semantic retrieval for grounded generation
+- Models: TinyLlama · GPT-2 · LLaMA2 · Mistral 7B via PEFT/LoRA/SFT
+- Hardware: RTX 2060 + dual AMD RX 7900 XTX · gradient checkpointing · CI/CD
 
 **Stack:** `PyTorch` `Transformers` `PEFT` `LoRA` `FAISS` `CUDA` `GANs` `REINFORCE RL`
 
@@ -163,11 +167,9 @@ Privacy-first framework that reduces LLM hallucinations entirely on-premise — 
 
 <details>
 <summary><b>⏱️ sktime-MCP — MCP Protocol Layer for Time-Series ML</b></summary>
+<br>
 
-MCP server exposing sktime's full forecasting and time-series ML API — enabling LLM agents to invoke production ML pipelines as structured tool calls.
-
-- Bridges classical ML (Scikit-learn-compatible) and modern agentic AI architectures
-- LLM agents can invoke sktime forecasting models as native tools
+MCP server exposing sktime's full forecasting API — enabling LLM agents to invoke production ML pipelines as structured tool calls. Bridges classical ML and modern agentic architectures.
 
 **Stack:** `Python` `MCP Protocol` `sktime` `Scikit-learn`
 
@@ -175,29 +177,13 @@ MCP server exposing sktime's full forecasting and time-series ML API — enablin
 
 <details>
 <summary><b>📊 ArcheV — First LLM Benchmark Suite for RISC-V RV32I</b></summary>
+<br>
 
 > **[github.com/merledu/ArcheV](https://github.com/merledu/ArcheV)**
 
-The first standardized evaluation framework for LLM-generated RISC-V assembly code.
-
-- Functional correctness · syntactic validity · ISA edge-case coverage
-- llama.cpp local inference with structured prompt engineering
-- Reproducible JSON I/O + Verilog simulation integration
+The *first* standardized evaluation framework for LLM-generated RISC-V assembly code — functional correctness · syntactic validity · ISA edge-case coverage · reproducible JSON output.
 
 **Stack:** `Python` `Verilog` `llama.cpp` `JSON`
-
-</details>
-
-<details>
-<summary><b>⚙️ Verimate AI Engine — LLM-Powered Chip Verification Automation</b></summary>
-
-AI platform automating UVM verification plan and testbench generation for RTL/chip designs in the semiconductor sector.
-
-- End-to-end RAG pipeline: LangChain + FAISS + Gemini API + GPU-accelerated local LLMs
-- Significant reduction in hardware verification engineering cycle time
-- Production-grade data pipelines: cleaning → semantic chunking → embedding → FAISS indexing
-
-**Stack:** `LangChain` `FAISS` `Gemini API` `PyTorch` `CUDA`
 
 </details>
 
@@ -205,7 +191,7 @@ AI platform automating UVM verification plan and testbench generation for RTL/ch
 
 ## 🛠️ Tech Stack
 
-**AI / LLM Systems**
+**AI / LLM**
 
 ![RAG](https://img.shields.io/badge/RAG-0f172a?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
@@ -217,17 +203,18 @@ AI platform automating UVM verification plan and testbench generation for RTL/ch
 ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-0ea5e9?style=flat-square)
 ![MCP](https://img.shields.io/badge/MCP%20Protocol-6366f1?style=flat-square)
 ![A2A](https://img.shields.io/badge/A2A%20Protocol-6366f1?style=flat-square)
-![llama.cpp](https://img.shields.io/badge/llama.cpp-000000?style=flat-square)
+![llama.cpp](https://img.shields.io/badge/llama.cpp-111827?style=flat-square)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white)
 
-**GPU & ML Infrastructure**
+**GPU & ML**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![INT4/INT8](https://img.shields.io/badge/INT4%20%2F%20INT8%20Quantization-0f172a?style=flat-square)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![INT4/INT8](https://img.shields.io/badge/INT4%20%2F%20INT8%20Quant-0f172a?style=flat-square)
 
 **Cloud & MLOps**
 
@@ -252,69 +239,63 @@ AI platform automating UVM verification plan and testbench generation for RTL/ch
 
 ## 📊 GitHub Stats
 
+<!-- Using github-stats-extended as reliable alternative to rate-limited vercel instance -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shehrozkashif&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0&ring_color=7c3aed" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shehrozkashif&theme=midnight-purple&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" height="165"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shehrozkashif&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e2e8f0" height="135"/>
-</div>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Shehrozkashif&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=c4b5fd&text_color=e2e8f0&ring_color=7c3aed)](https://github.com/Shehrozkashif)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shehrozkashif&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="95%"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Shehrozkashif&theme=midnight-purple&hide_border=true&background=0d1117&ring=7c3aed&fire=c4b5fd&currStreakLabel=c4b5fd&dates=94a3b8)](https://github.com/Shehrozkashif)
+
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Shehrozkashif&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=e2e8f0)](https://github.com/Shehrozkashif)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shehrozkashif&bg_color=0d1117&color=c4b5fd&line=7c3aed&point=ffffff&area=true&hide_border=true)](https://github.com/Shehrozkashif)
+
 </div>
 
 ---
 
 ## 🎓 Education & Certifications
 
-**BSc Software Engineering** — UIT University, Karachi · Feb 2022 – Feb 2026
-
-🏆 **Awards:** Google Summer of Code 2026 — Intel/OpenVINO (globally competitive, Google-sponsored) · LFX Mentorship 2025 — Linux Foundation / RISC-V International (merit-based)
+**BSc Software Engineering** — UIT University, Karachi &nbsp;·&nbsp; Feb 2022 – Feb 2026
 
 **IBM AI Engineer Professional Certificate** *(Coursera / IBM, 2025)*
-
-| Course |
-|---|
-| Generative AI Applications with RAG and LangChain |
-| Fundamentals of AI Agents Using RAG and LangChain |
-| Generative AI Advanced Fine-Tuning for LLMs |
-| Generative AI Engineering and Fine-Tuning Transformers |
-| Deep Learning with PyTorch |
-| AI Capstone Project with Deep Learning |
-| Machine Learning with Python · Scalable Java Microservices (Google) |
+> Generative AI Applications with RAG and LangChain &nbsp;·&nbsp; Fundamentals of AI Agents Using RAG and LangChain &nbsp;·&nbsp; Generative AI Advanced Fine-Tuning for LLMs &nbsp;·&nbsp; Generative AI Engineering and Fine-Tuning Transformers &nbsp;·&nbsp; Deep Learning with PyTorch &nbsp;·&nbsp; AI Capstone Project with Deep Learning
 
 ---
 
 ## 🌍 UAE Employment Status
 
+<div align="center">
+
 | | |
 |---|---|
 | 📍 **Location** | Dubai, UAE |
-| 🪪 **Visa** | Valid 2-Year UAE Residence Visa |
-| ⚡ **Availability** | Immediate Joiner — zero notice period |
-| 🔄 **Work Auth** | Open to visa transfer, new sponsorship, or free-zone arrangements |
-| 🏙️ **Relocation** | Open to Abu Dhabi, Sharjah, or any UAE emirate |
+| 🪪 **Visa** | ✅ Valid 2-Year UAE Residence Visa |
+| ⚡ **Availability** | **Immediate Joiner** — zero notice period |
+| 🔄 **Work Auth** | Visa transfer · new sponsorship · free-zone arrangements |
+| 🏙️ **Relocation** | Open to Abu Dhabi · Sharjah · any UAE emirate |
+| 🌐 **Languages** | English (Professional) · Urdu (Native) |
+
+</div>
 
 ---
 
-## 📬 Connect
+## 📬 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shehroz-kashif)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shehroz-kashif)
 [![Email](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharooz57@gmail.com)
-[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shehrozkashif)
 
-**Open to:** Production AI systems · LLM infrastructure · GPU optimization · Agentic AI · Open-source tooling · Research collaborations
+*Open to: Production AI · LLM Infrastructure · GPU Optimization · Agentic Systems · Research · Open Source*
 
 </div>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=110&section=footer" width="100%"/>
 
 *"The gap between a model and a system is where most people give up. That's where I live."*
 
