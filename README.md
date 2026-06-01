@@ -122,7 +122,7 @@ Router → Planning → UI Grounding → Action Execution → Reflection
 | 🔵 **Intel** | [openvinotoolkit/nncf](https://github.com/openvinotoolkit/nncf) + [openvino](https://github.com/openvinotoolkit/openvino) | **3** | Stateful LLM compression · transpose-aware LoRA · PyTorch frontend |
 | 🐧 **Linux Foundation** | [riscv-unified-db](https://github.com/riscv/riscv-unified-db) | **7** | ISA extensions · Ruby tooling · CI/CD automation |
 | 🔴 **Harvard / MIT** | [hnn-core](https://github.com/jonescompneurolab/hnn-core) | **1** | Documentation (#1001) |
-| 🟡 **MERL Lab** | [ai4org](https://github.com/merledu/ai4org) | **1** | GPU hallucination reduction pipeline |
+| 🟡 **MERL Lab** | [ai4org](https://github.com/merledu/ai4org) | **1** | hallucination reduction pipeline |
 
 </div>
 
