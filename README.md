@@ -24,8 +24,6 @@
 
 I work across the **full hardware-to-software AI stack**: selected globally for **Google Summer of Code 2026 at Intel/OpenVINO** to build a 5-agent privacy-preserving desktop automation system, and contributed **12 verified merged PRs** into Intel's production inference toolchain, the Linux Foundation's canonical RISC-V ISA specification, and Harvard/MIT's HNN-Core.
 
-Based in **Dubai, UAE** · Valid 2-year residence visa · **Immediately available** · Open to relocation across UAE
-
 ---
 
 ## 🏅 Recognition at a Glance
