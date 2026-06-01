@@ -87,8 +87,7 @@ Router → Planning → UI Grounding → Action Execution → Reflection
 
 - **Transpose-aware LoRA Correction** — correct handling of MatMul layers with transposed activations in INT4/INT8 quantized LLMs
 - Migrated LLM compression examples to OpenVINO **stateful inference flow** — production-grade, no manual KV-cache handling
-- **3 merged PRs:** [NNCF #3814](https://github.com/openvinotoolkit/nncf/pull/3814) · [NNCF #3864](https://github.com/openvinotoolkit/nncf/pull/3864) · [OpenVINO #33803](https://github.com/openvinotoolkit/openvino/pull/33803)
-
+- **3 merged PRs:** [NNCF #3814](https://github.com/openvinotoolkit/nncf/pull/3814) · [NNCF #3864](https://github.com/openvinotoolkit/nncf/pull/3864)
 ---
 
 ### 🟢 Software Engineer — LFX Mentorship @ Linux Foundation · RISC-V International
