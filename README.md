@@ -261,23 +261,6 @@ The *first* standardized evaluation framework for LLM-generated RISC-V assembly 
 
 ---
 
-## 🌍 UAE Employment Status
-
-<div align="center">
-
-| | |
-|---|---|
-| 📍 **Location** | Dubai, UAE |
-| 🪪 **Visa** | ✅ Valid 2-Year UAE Residence Visa |
-| ⚡ **Availability** | **Immediate Joiner** — zero notice period |
-| 🔄 **Work Auth** | Visa transfer · new sponsorship · free-zone arrangements |
-| 🏙️ **Relocation** | Open to Abu Dhabi · Sharjah · any UAE emirate |
-| 🌐 **Languages** | English (Professional) · Urdu (Native) |
-
-</div>
-
----
-
 ## 📬 Let's Connect
 
 <div align="center">
