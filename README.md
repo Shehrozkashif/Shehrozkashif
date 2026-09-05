@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Shehroz%20Kashif&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20GSoC%202026%20%40%20Intel%20OpenVINO%20%7C%20LFX%20%2725%20%40%20RISC-V%20International&descAlignY=60&descSize=14&descColor=c4b5fd&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&width=800&lines=Quantization+%26+On-Device+Inference+%7C+INT4%2C+OpenVINO%2C+NNCF;12+Merged+PRs+%7C+Intel+%C2%B7+Linux+Foundation+%C2%B7+Harvard%2FMIT;GSoC+2026+%40+Intel+%7C+5-Agent+Local+Desktop+Automation;Applying+for+PhD+Fall+2027+%7C+Efficient+ML+%2B+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&width=800&lines=Quantization+%26+On-Device+Inference+%7C+INT4%2C+OpenVINO%2C+NNCF;12+Merged+PRs+%7C+Intel+%C2%B7+Linux+Foundation+%C2%B7+Harvard%2FMIT;GSoC+2026+%40+Intel+%7C+5-Agent+Local+Desktop+Automation" alt="Typing SVG" />
 </a>
 
 <br/>
