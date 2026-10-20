@@ -23,7 +23,7 @@ I build AI systems that run where the hardware actually is: INT4 quantization, o
 My work sits between the model and the machine. On the software side that means weight compression and inference optimization inside Intel's OpenVINO and NNCF toolchain. On the hardware side it means RISC-V ISA specification work for the Linux Foundation, and RV32I processors written in Chisel.
 
 **Right now:** Google Summer of Code 2026 contributor at Intel (OpenVINO), building a fully local 5-agent desktop automation system.
-**Next:** applying for **PhD programs starting Fall 2027** in efficient ML, model compression, and computer architecture.
+**Next:** open to founding and early-stage engineering roles in LLM inference, edge AI, and efficient ML.
 
 <div align="center">
 
@@ -71,8 +71,6 @@ A standardized evaluation framework for LLM-generated RISC-V assembly, built bec
 RV32I cores written in Chisel (Scala), with hazard detection, forwarding, and Verilator-based verification.
 
 `Chisel` `Scala` `Verilator` `RISC-V`
-
-**Open to PhD supervision in:** model compression and quantization · efficient / on-device inference · hardware-aware ML · LLM evaluation and benchmarking · ML for computer architecture
 
 ---
 
@@ -218,7 +216,7 @@ Router  →  Planning  →  UI Grounding  →  Action Exec  →  Reflection
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shehroz-kashif)
 [![Email](https://img.shields.io/badge/Email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharooz57@gmail.com)
 
-**Open to:** PhD positions (Fall 2027) · founding and early-stage engineering · LLM inference and infrastructure · edge AI optimization · research collaboration
+**Open to:** founding and early-stage engineering · LLM inference and infrastructure · edge AI optimization · research collaboration
 
 Based in the UAE. Open to remote, and to relocation.
 
